@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\newController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,12 +13,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-});
-Route::get('/about', function () {
-    return view('about');
-});
-Route::get('/user/{id}/{name}', function ($id, $name) {
-    return 'ID :'. $id. ' Name: '. $name;
-});
+Route::get('/', 'newController@home1');
+Route::get('/about', 'newController@about1');

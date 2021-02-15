@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="247a9685-d213-4172-96c8-0e4b54c8a522" name="Default Changelist" comment="" />
+    <list default="true" id="247a9685-d213-4172-96c8-0e4b54c8a522" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -122,6 +129,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1oSxzNtqATDqGBtaufiXFRTEwPP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -131,7 +139,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -148,11 +163,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613294054538</updated>
-      <workItem from="1613294055600" duration="118000" />
+      <workItem from="1613294055600" duration="3241000" />
+      <workItem from="1613394837756" duration="3312000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1613294318960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613294318960</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2534" y="117" key="CommitChangelistDialog2" timestamp="1613294318260">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2534" y="117" key="CommitChangelistDialog2/62.0.1474.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1613294318260" />
+    <state x="2754" y="437" width="589" height="205" key="Github.ShareDialog" timestamp="1613294246580">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2754" y="437" width="589" height="205" key="Github.ShareDialog/62.0.1474.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1613294246580" />
+    <state x="2683" y="244" key="Github.UntrackedFilesDialog" timestamp="1613294264645">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2683" y="244" key="Github.UntrackedFilesDialog/62.0.1474.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1613294264645" />
+    <state x="308" y="77" key="SettingsEditor" timestamp="1613295825669">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="308" y="77" key="SettingsEditor/62.0.1474.864/1982.0.1858.1080@62.0.1474.864" timestamp="1613295825669" />
+    <state x="2503" y="272" key="Vcs.Push.Dialog.v2" timestamp="1613294322611">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2503" y="272" key="Vcs.Push.Dialog.v2/62.0.1474.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1613294322611" />
   </component>
 </project>
