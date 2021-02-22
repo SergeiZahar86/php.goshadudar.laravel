@@ -32,4 +32,12 @@
         <br>
         <button type="submit" class="btn btn-success">Отправить</button>
     </form>
+
+    <h1>Все отзывы</h1>
+{{--  $all - это ключ-значение из массива NewController   --}}
+    @foreach($all as $element)
+        <div class="alert alert-warning">
+            <h3>{{ $element->subject }}</h3>
+        </div>
+    @endforeach
 @endsection
