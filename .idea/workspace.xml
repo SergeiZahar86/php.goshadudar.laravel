@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="247a9685-d213-4172-96c8-0e4b54c8a522" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/NewController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/NewController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/ContactModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2021_02_21_114619_create_contact_models_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_02_21_134943_create_contacts_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/review.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/review.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +181,10 @@
       <workItem from="1613394837756" duration="7167000" />
       <workItem from="1613829508519" duration="47000" />
       <workItem from="1613829723151" duration="110000" />
-      <workItem from="1613907156151" duration="12615000" />
+      <workItem from="1613907156151" duration="12635000" />
+      <workItem from="1614005341476" duration="824000" />
+      <workItem from="1614050279087" duration="1515000" />
+      <workItem from="1614348568033" duration="26000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1613294318960</created>
@@ -209,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613908679894</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1">
+      <created>1613979018672</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613979018672</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,12 +243,12 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="530" y="187" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/62.0.1474.864/1982.0.1858.1080@62.0.1474.864" timestamp="1613907708363" />
-    <state x="500" y="0" key="CommitChangelistDialog2" timestamp="1613908678761">
+    <state x="463" y="0" key="CommitChangelistDialog2" timestamp="1613979017625">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="2534" y="117" key="CommitChangelistDialog2/62.0.1474.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1613294318260" />
     <state x="500" y="0" key="CommitChangelistDialog2/62.0.1474.864/1982.0.1858.1080@62.0.1474.864" timestamp="1613908678761" />
-    <state x="500" y="0" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1613398558974" />
+    <state x="463" y="0" key="CommitChangelistDialog2/62.0.1474.864@62.0.1474.864" timestamp="1613979017625" />
     <state x="668" y="183" key="EnvironmentVariablesDialog" timestamp="1613403608626">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -284,12 +289,12 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="308" y="77" key="SettingsEditor/62.0.1474.864/1982.0.1858.1080@62.0.1474.864" timestamp="1613976949145" />
-    <state x="475" y="218" key="Vcs.Push.Dialog.v2" timestamp="1613908690432">
+    <state x="475" y="218" key="Vcs.Push.Dialog.v2" timestamp="1613979020929">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="2503" y="272" key="Vcs.Push.Dialog.v2/62.0.1474.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1613294322611" />
     <state x="475" y="218" key="Vcs.Push.Dialog.v2/62.0.1474.864/1982.0.1858.1080@62.0.1474.864" timestamp="1613908690432" />
-    <state x="475" y="218" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1613398577191" />
+    <state x="475" y="218" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1613979020929" />
     <state x="530" y="237" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1613976678759">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
